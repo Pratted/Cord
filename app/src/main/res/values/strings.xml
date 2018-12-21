@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Cord</string>
+    <string name="new_incident">New Incident</string>
 </resources>

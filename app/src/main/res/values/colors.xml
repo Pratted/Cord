@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#131923</color>
-    <color name="colorPrimaryDark">#4C5A6D</color>
-    <color name="colorAccent">#D1DAE1</color>
+    <color name="colorPrimaryDark">#303B4D</color>
+    <color name="colorAccent">#4C5A6D</color>
 
     <color name="colorText">#F5F5F5</color>
 
-    <color name="colorComplement_1">#40DBBE</color>
-    <color name="colorComplement_2">#45EBCC</color>
-    <color name="colorComplement_3">#F2BA4E</color>
-    <color name="colorComplement_4">#FEC756</color>
-    <color name="colorComplement_5">#EE4C82</color>
-    <color name="colorComplement_6">#EF5D86</color>
-    <color name="colorComplement_7">#14C6C4</color>
-    <color name="colorComplement_8">#09D2CC</color>
+    <color name="colorBaseOne">#FF3AA7</color>
+    <color name="colorComplimentOne">#FF5ABE</color>
+
+    <color name="colorBaseTwo">#0FB1E6</color>
+    <color name="colorComplimentTwo">#23F29D</color>
+
+    <color name="colorBaseThree">#FD720B</color>
+    <color name="colorComplimentThree">#FEC431</color>
+
+    <color name="colorBaseFour">#0E61E9</color>
+    <color name="colorComplimentFour">#09C3FB</color>
+
+    <color name="colorBaseFive">#6A2AFC</color>
+    <color name="colorComplimentFive">#CD5EE4</color>
+
+    <color name="colorBaseSix">#FE2F8D</color>
+    <color name="colorComplimentSix">#FE875F</color>
+
+    <color name="colorBaseSeven">#00E36B</color>
+    <color name="colorComplimentSeven">#00FDB4</color>
+
+    <color name="colorBaseEight">#EFEE4C</color>
+    <color name="colorComplimentEight">#00E36B</color>
 </resources>

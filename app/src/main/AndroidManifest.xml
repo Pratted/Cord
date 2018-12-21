@@ -24,6 +24,11 @@
         <activity
             android:name=".MainActivity"
             android:theme="@style/NoActionBarTheme" />
+
+        <!-- Add Incident -->
+        <activity
+            android:name=".AddIncident"
+            android:theme="@style/NoActionBarTheme" />
     </application>
 
 </manifest>
