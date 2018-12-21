@@ -1,11 +1,11 @@
-package com.example.eric.helloworld;
+package com.cord.cord;
 
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.ms.square.android.expandabletextview.ExpandableTextView;
 
-public class IncidentListItem extends Incident{
+public class IncidentListItem extends Incident {
     private LinearLayout layout;
 
     private TextView tvIncidentType;

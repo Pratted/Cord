@@ -1,6 +1,4 @@
-package com.example.eric.helloworld;
-
-
+package com.cord.cord;
 
 public class Incident {
     protected String incidentType;
